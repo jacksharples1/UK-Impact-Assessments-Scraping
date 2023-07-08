@@ -1,0 +1,7 @@
+__pycache__/
+output/csv/*
+output/pdfs/*
+.python-version
+scrape.ipynb
+
+
